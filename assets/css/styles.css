@@ -42,3 +42,9 @@ input {
 input::placeholder{
     text-align: center;
 }
+
+.qrcode-content {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
